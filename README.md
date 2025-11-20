@@ -30,6 +30,7 @@ Configure the log level via `application.properties`:
 
 ```properties
 acme.logging.level=INFO
+acme.logging.enabled=false (default is true)
 ```
 
 Supported levels: `DEBUG`, `INFO`, `WARN`, `ERROR`
