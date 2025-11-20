@@ -7,9 +7,9 @@ A Spring Boot custom starter demonstrating auto-configuration patterns.
 This project showcases the standard Spring Boot starter architecture:
 
 - **acme-logging** - Core library containing `AcmeLogger` and `LogLevel` classes
-  - GitHub repo: git@github.com:rafaspimenta/acme-logging.git (this repo)
+  - GitHub repo: https://github.com/rafaspimenta/acme-logging (this repo)
 - **acme-logging-spring-boot-autoconfigure** - Auto-configuration module that configures `AcmeLogger` beans
-  - GitHub repo: git@github.com:rafaspimenta/acme-logging-spring-boot-autoconfigure.git
+  - GitHub repo: https://github.com/rafaspimenta/acme-logging-spring-boot-autoconfigure
 - **acme-logging-spring-boot-starter** - Starter module that imports the auto-configuration
   - GitHub repo: (TBD)
 
